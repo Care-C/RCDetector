@@ -27,8 +27,7 @@
 <br>
 
 ## :dart: About ##
-
-Describe your project
+Detailed source code and datasets will be published after acceptance of the paper
 
 ## :sparkles: Architecture ##
 
